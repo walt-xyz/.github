@@ -11,11 +11,9 @@ A web3 identity and auth platform for developers.
 <p>
 Open Source. Multi-Chain. Multi Wallet.
 </p>
-    [test](https://waltxyz.com) [Website + Demo](https://waltxyz.com) | [Documentation](https://docs.waltxyz.com)
 <hr>
 <div>
 </div>
-
 </div>
 
 
