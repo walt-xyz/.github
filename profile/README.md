@@ -25,7 +25,7 @@ Open Source. Multi-Chain. Multi Wallet.
 4. **Insights:** Leverage public/on-chain & private/off-chain data to better understand & connect with your users.
 5. **Compliance:** Ensure compliance with crypto, AML & data protection regulations.
 
-For feature requests reach out [here](mailto:tamino@walt.id) 
+You can request features [here](mailto:tamino@walt.id). 
 
 
 ## Get started
