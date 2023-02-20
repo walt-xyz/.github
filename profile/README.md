@@ -16,7 +16,7 @@ Website + Demo | Documentation
 
 ## TLDR
 
-1. **Authentication:** Verify who your users are based on their wallets (Sign in with Ethereum & Co), assets (token-gating) and identity data (identity verification). 
+1. **Authentication:** Verify who your users are based on their wallets (Sign in with Eth & Co), assets (token-gating) and identity data (identity verification). 
 2. **Authorization & Access:** Enforce dynamic access policies and user roles to create personalized onboarding and user experiences.
 3. **Single Sign On 3.0:** Enable users to access different pages and applications with the same set of on-chain tokens (NFTs/SBTs) or off-chain credentials (“verifiable credentials”).
 4. **User Insights:** Leverage public/on-chain and private/off-chain data to better understand and connect with your users.
