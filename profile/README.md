@@ -6,13 +6,12 @@
     <hr>
 </div>
 <p>
-An open source web3 identity and auth platform for developers.
-
+A web3 identity and auth platform for developers.
 </p>
 <p>
-Open Source. Multi-Chain. Multi Wallet
+Open Source. Multi-Chain. Multi Wallet.
 </p>
-Website + Demo | Documentation
+[Website + Demo beta](https://waltxyz.com) | [Documentation](https://docs.waltxyz.com)
 <hr>
 <div>
 </div>
