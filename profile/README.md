@@ -16,21 +16,20 @@ Open Source. Multi-Chain. Multi Wallet.
 </div>
 </div>
 
-
-
 ## TLDR
+<i>Authenticate, manage and understand your web3 users. </i>
 
-1. **Authentication:** Verify who your users are based on their wallets (Sign in with Eth & Co), assets (token-gating) and identity data (identity verification). 
-2. **Authorization & Access:** Enforce dynamic access policies and user roles to create personalized onboarding and user experiences.
-3. **Single Sign On 3.0:** Enable users to access different pages and applications with the same set of on-chain tokens (NFTs/SBTs) or off-chain credentials (“verifiable credentials”).
-4. **User Insights:** Leverage public/on-chain and private/off-chain data to better understand and connect with your users.
-5. **Compliance:** Ensure compliance with crypto, AML, privacy and data protection regulations.
+1. **Auth:** Verify users based on their wallets (Sign in with Eth & Co), assets (token-gating) & identity data (ID verification). 
+2. **Access:** Enforce dynamic access policies & user roles to create personalized onboarding & user experiences.
+3. **SSO 3.0:** Enable users to access different pages or apps with the same on-chain tokens (NFT/SBT) or off-chain credentials.
+4. **Insights:** Leverage public/on-chain & private/off-chain data to better understand & connect with your users.
+5. **Compliance:** Ensure compliance with crypto, AML & data protection regulations.
 
-You can influence our roadmap and request features [here](mailto:tamino@walt.id) 
+For feature requests reach out [here](mailto:tamino@walt.id) 
 
 
 ## Get started
-[Try our demo](https://waltxyz.com) and [join beta](https://waltxyz.com/beta) to get early access (before we open source everything). 
+[Try our demo](https://waltxyz.com) & [join beta](https://waltxyz.com/beta) to get early access (before we open source everything). 
 
 
 ## Join the community
