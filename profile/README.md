@@ -1,10 +1,17 @@
 <div align="center">
 <div>
     <a href="https://walt.id">
-    <img alt="walt.xyz" src="https://user-images.githubusercontent.com/48290617/220125114-d44212ec-d269-47d9-a659-fdbae6f3cf57.png" width="100%"/>
+    <img alt="walt.xyz" src="https://user-images.githubusercontent.com/48290617/220134396-aba02aea-bc3d-4e74-8476-3594f2427b78.png" width="250"/>
     </a>    
+    <hr>
 </div>
-<p>An open source web3 identity and auth platform for developers.</p>
+<p>
+An open source web3 identity and auth platform for developers.
+
+</p>
+<p>
+Open Source. Multi-Chain. Multi Wallet
+</p>
 Website + Demo | Documentation
 <hr>
 <div>
