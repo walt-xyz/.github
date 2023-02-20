@@ -6,7 +6,7 @@
     <hr>
 </div>
 <p>
-A web3 identity and auth platform for developers.
+<b>A web3 identity and auth platform for developers.</b>
 </p>
 <p>
 Open Source. Multi-Chain. Multi Wallet.
