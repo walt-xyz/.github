@@ -6,7 +6,7 @@
     <hr>
 </div>
 <p>
-<b>A web3 identity and auth platform.</b>
+<b>A web3 identity and auth platform for developers.</b>
 </p>
 <p>
 Open Source. Multi-Chain. Multi Wallet.
@@ -30,7 +30,7 @@ You can influence our roadmap and request features [here](mailto:tamino@walt.id)
 
 
 ## Get started
-[Join beta](https://waltxyz.com/beta) to get early access (before we open source everything). 
+[Try our demo](https://waltxyz.com) and [Join beta](https://waltxyz.com/beta) to get early access (before we open source everything). 
 
 
 ## Join the community
