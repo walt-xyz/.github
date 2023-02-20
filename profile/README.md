@@ -17,17 +17,17 @@ Website + Demo | Documentation
 ## TLDR
 
 1. **Authentication:** Verify who your users are based on their wallets (Sign in with Ethereum & Co), assets (token-gating) and identity data (identity verification). 
-2. **Authorization & Access:** Set and enforce dynamic access policies and user roles to create personalized onboarding and user experiences.
+2. **Authorization & Access:** Enforce dynamic access policies and user roles to create personalized onboarding and user experiences.
 3. **Single Sign On 3.0:** Enable users to access different pages and applications with the same set of on-chain tokens (NFTs/SBTs) or off-chain credentials (“verifiable credentials”).
 4. **User Insights:** Leverage public/on-chain and private/off-chain data to better understand and connect with your users.
 5. **Compliance:** Ensure compliance with crypto, AML, privacy and data protection regulations.
 
-You can influence our roadmap and request features here 
+You can influence our roadmap and request features [here](mailto:tamino@walt.id) 
 
 
 ## Get started
-Join beta to get early access (before we open source everything). 
+[Join beta](https://waltxyz.com/beta) to get early access (before we open source everything). 
 
 
 ## Join the community
-Connect with fellow builders and get the latest updates → [Discord](https://walt.id/discord) + [Twitter](https://twitter.com/walt_id)
+Connect with fellow builders & get the latest updates → [Discord](https://walt.id/discord) + [Twitter](https://twitter.com/walt_id)
