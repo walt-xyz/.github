@@ -30,7 +30,7 @@ You can influence our roadmap and request features [here](mailto:tamino@walt.id)
 
 
 ## Get started
-[Try our demo](https://waltxyz.com) and [Join beta](https://waltxyz.com/beta) to get early access (before we open source everything). 
+[Try our demo](https://waltxyz.com) and [join beta](https://waltxyz.com/beta) to get early access (before we open source everything). 
 
 
 ## Join the community
